@@ -10,6 +10,7 @@ package ejerciciosprogramacionjava;
  * @author Javier
  */
 //CREANDO JAVA
+//CREANDO PAQUETES PARA ORGANIZAR LOS EJERCICIOS 
 public class EjerciciosProgramacionJava {
 
     /**
